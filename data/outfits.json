@@ -1,0 +1,434 @@
+[
+  {
+    "theme": "Y2K",
+    "type": "Top",
+    "filename": "1.png",
+    "path": "assets/y2k/top/1.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Top",
+    "filename": "2.png",
+    "path": "assets/y2k/top/2.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Top",
+    "filename": "3.png",
+    "path": "assets/y2k/top/3.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Bottom",
+    "filename": "1.png",
+    "path": "assets/y2k/bottom/1.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Bottom",
+    "filename": "2.png",
+    "path": "assets/y2k/bottom/2.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Bottom",
+    "filename": "3.png",
+    "path": "assets/y2k/bottom/3.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Shoes",
+    "filename": "1.png",
+    "path": "assets/y2k/shoes/1.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Shoes",
+    "filename": "2.png",
+    "path": "assets/y2k/shoes/2.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Shoes",
+    "filename": "3.png",
+    "path": "assets/y2k/shoes/3.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Accessories",
+    "filename": "1.png",
+    "path": "assets/y2k/accessories/1.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Accessories",
+    "filename": "2.png",
+    "path": "assets/y2k/accessories/2.png"
+  },
+  {
+    "theme": "Y2K",
+    "type": "Accessories",
+    "filename": "3.png",
+    "path": "assets/y2k/accessories/3.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Top",
+    "filename": "1.png",
+    "path": "assets/futuristic/top/1.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Top",
+    "filename": "2.png",
+    "path": "assets/futuristic/top/2.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Top",
+    "filename": "3.png",
+    "path": "assets/futuristic/top/3.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Bottom",
+    "filename": "1.png",
+    "path": "assets/futuristic/bottom/1.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Bottom",
+    "filename": "2.png",
+    "path": "assets/futuristic/bottom/2.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Bottom",
+    "filename": "3.png",
+    "path": "assets/futuristic/bottom/3.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Shoes",
+    "filename": "1.png",
+    "path": "assets/futuristic/shoes/1.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Shoes",
+    "filename": "2.png",
+    "path": "assets/futuristic/shoes/2.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Shoes",
+    "filename": "3.png",
+    "path": "assets/futuristic/shoes/3.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Accessories",
+    "filename": "1.png",
+    "path": "assets/futuristic/accessories/1.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Accessories",
+    "filename": "2.png",
+    "path": "assets/futuristic/accessories/2.png"
+  },
+  {
+    "theme": "Futuristic",
+    "type": "Accessories",
+    "filename": "3.png",
+    "path": "assets/futuristic/accessories/3.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Top",
+    "filename": "1.png",
+    "path": "assets/glamorous/top/1.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Top",
+    "filename": "2.png",
+    "path": "assets/glamorous/top/2.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Top",
+    "filename": "3.png",
+    "path": "assets/glamorous/top/3.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Bottom",
+    "filename": "1.png",
+    "path": "assets/glamorous/bottom/1.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Bottom",
+    "filename": "2.png",
+    "path": "assets/glamorous/bottom/2.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Bottom",
+    "filename": "3.png",
+    "path": "assets/glamorous/bottom/3.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Shoes",
+    "filename": "1.png",
+    "path": "assets/glamorous/shoes/1.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Shoes",
+    "filename": "2.png",
+    "path": "assets/glamorous/shoes/2.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Shoes",
+    "filename": "3.png",
+    "path": "assets/glamorous/shoes/3.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Accessories",
+    "filename": "1.png",
+    "path": "assets/glamorous/accessories/1.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Accessories",
+    "filename": "2.png",
+    "path": "assets/glamorous/accessories/2.png"
+  },
+  {
+    "theme": "Glamorous",
+    "type": "Accessories",
+    "filename": "3.png",
+    "path": "assets/glamorous/accessories/3.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Top",
+    "filename": "1.png",
+    "path": "assets/business_casual/top/1.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Top",
+    "filename": "2.png",
+    "path": "assets/business_casual/top/2.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Top",
+    "filename": "3.png",
+    "path": "assets/business_casual/top/3.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Bottom",
+    "filename": "1.png",
+    "path": "assets/business_casual/bottom/1.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Bottom",
+    "filename": "2.png",
+    "path": "assets/business_casual/bottom/2.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Bottom",
+    "filename": "3.png",
+    "path": "assets/business_casual/bottom/3.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Shoes",
+    "filename": "1.png",
+    "path": "assets/business_casual/shoes/1.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Shoes",
+    "filename": "2.png",
+    "path": "assets/business_casual/shoes/2.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Shoes",
+    "filename": "3.png",
+    "path": "assets/business_casual/shoes/3.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Accessories",
+    "filename": "1.png",
+    "path": "assets/business_casual/accessories/1.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Accessories",
+    "filename": "2.png",
+    "path": "assets/business_casual/accessories/2.png"
+  },
+  {
+    "theme": "Business Casual",
+    "type": "Accessories",
+    "filename": "3.png",
+    "path": "assets/business_casual/accessories/3.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Top",
+    "filename": "1.png",
+    "path": "assets/kidcore/top/1.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Top",
+    "filename": "2.png",
+    "path": "assets/kidcore/top/2.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Top",
+    "filename": "3.png",
+    "path": "assets/kidcore/top/3.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Bottom",
+    "filename": "1.png",
+    "path": "assets/kidcore/bottom/1.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Bottom",
+    "filename": "2.png",
+    "path": "assets/kidcore/bottom/2.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Bottom",
+    "filename": "3.png",
+    "path": "assets/kidcore/bottom/3.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Shoes",
+    "filename": "1.png",
+    "path": "assets/kidcore/shoes/1.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Shoes",
+    "filename": "2.png",
+    "path": "assets/kidcore/shoes/2.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Shoes",
+    "filename": "3.png",
+    "path": "assets/kidcore/shoes/3.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Accessories",
+    "filename": "1.png",
+    "path": "assets/kidcore/accessories/1.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Accessories",
+    "filename": "2.png",
+    "path": "assets/kidcore/accessories/2.png"
+  },
+  {
+    "theme": "Kidcore",
+    "type": "Accessories",
+    "filename": "3.png",
+    "path": "assets/kidcore/accessories/3.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Top",
+    "filename": "1.png",
+    "path": "assets/cottagecore/top/1.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Top",
+    "filename": "2.png",
+    "path": "assets/cottagecore/top/2.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Top",
+    "filename": "3.png",
+    "path": "assets/cottagecore/top/3.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Bottom",
+    "filename": "1.png",
+    "path": "assets/cottagecore/bottom/1.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Bottom",
+    "filename": "2.png",
+    "path": "assets/cottagecore/bottom/2.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Bottom",
+    "filename": "3.png",
+    "path": "assets/cottagecore/bottom/3.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Shoes",
+    "filename": "1.png",
+    "path": "assets/cottagecore/shoes/1.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Shoes",
+    "filename": "2.png",
+    "path": "assets/cottagecore/shoes/2.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Shoes",
+    "filename": "3.png",
+    "path": "assets/cottagecore/shoes/3.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Accessories",
+    "filename": "1.png",
+    "path": "assets/cottagecore/accessories/1.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Accessories",
+    "filename": "2.png",
+    "path": "assets/cottagecore/accessories/2.png"
+  },
+  {
+    "theme": "Cottagecore",
+    "type": "Accessories",
+    "filename": "3.png",
+    "path": "assets/cottagecore/accessories/3.png"
+  }
+]
