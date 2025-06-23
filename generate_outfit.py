@@ -9,7 +9,7 @@ theme_definitions = {
     "glamorous": ["top", "bottom", "shoes", "accessories"],
     "business_casual": ["top", "bottom", "shoes", "accessories"],
     "kidcore": ["top", "bottom", "shoes", "accessories"],
-    "cottagecore": ["dresses", "head_pieces", "shoes", "accessories"]
+    "cottagecore": ["top", "bottom", "shoes", "accessories"]
 }
 
 variants = ["1", "2", "3"]
